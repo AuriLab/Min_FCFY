@@ -1,0 +1,4 @@
+- [ ] Implement `BanksCalculationEngine` for Max P/TBV calculation ($A1$, $A2$, $A3$)
+- [ ] Implement UI components and `BanksCalculatorScreen` for financial institutions
+- [ ] Add navigation state (`CalculatorScreen`) and Top Bar button toggle ("Banks" / "FCFY") in `MainActivity.kt`
+- [ ] Verify build and test functionality on emulator
